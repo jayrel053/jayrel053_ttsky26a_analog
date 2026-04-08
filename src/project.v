@@ -23,7 +23,6 @@ module tt_analog_example (
   assign uo_out  = ui_in + uio_in;  // Example: ou_out is the sum of ui_in and uio_in
   assign uio_out = 1;
   assign uio_oe  = 0;
-  assign ua  = 0;
 
   // List all unused inputs to prevent warnings
   wire _unused = &{ena, clk, rst_n, 1'b0};
