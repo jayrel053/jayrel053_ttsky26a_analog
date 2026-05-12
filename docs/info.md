@@ -10,14 +10,14 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-It works by design
+It should work by design
 
 ## How to test
 
 Explain how to use your project
-built-in self test is used
+built-in self test is not used
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-None is required
+Signal generator, oscilloscope, voltmeter, power supply
