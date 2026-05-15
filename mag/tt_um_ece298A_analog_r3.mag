@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778849687
+timestamp 1778857805
 << nwell >>
 rect 19244 33384 19544 33496
 << psubdiff >>
@@ -104,9 +104,8 @@ rect 24570 40688 24622 40816
 rect 24564 40636 24570 40688
 rect 24622 40636 24628 40688
 rect 24570 40630 24622 40636
-rect 24698 40501 24788 40818
-rect 24698 40412 25019 40501
-rect 24806 40411 25019 40412
+rect 24702 40501 24792 40818
+rect 24702 40411 25019 40501
 rect 25109 40411 25115 40501
 rect 24700 40183 24790 40184
 rect 24700 40093 25021 40183
@@ -277,9 +276,8 @@ rect 24580 34882 24632 35010
 rect 24574 34830 24580 34882
 rect 24632 34830 24638 34882
 rect 24580 34824 24632 34830
-rect 24708 34695 24798 35012
-rect 24708 34606 25029 34695
-rect 24816 34605 25029 34606
+rect 24710 34695 24800 35012
+rect 24710 34605 25029 34695
 rect 25119 34605 25125 34695
 rect 24710 34377 24800 34378
 rect 24710 34287 25031 34377
@@ -1731,31 +1729,31 @@ timestamp 1778788311
 transform 0 1 21704 -1 0 41202
 box 0 0 202 300
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_0 ~/work/ece298a/layout/inverter
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 22018 0 1 40424
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_1
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 22018 0 -1 40068
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_2
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 20424 0 1 37562
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_3
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 20424 0 -1 37206
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_4
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 19534 0 1 34612
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_5
-timestamp 1778788311
+timestamp 1778857129
 transform -1 0 19534 0 -1 34256
 box -32 -38 334 602
 use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_6
-timestamp 1778788311
+timestamp 1778857129
 transform 1 0 19262 0 1 32812
 box -32 -38 334 602
 use Sense_Amp  Sense_Amp_0 ~/work/ece298a/layout/sense_amp/ej
@@ -1915,15 +1913,8 @@ flabel metal1 22994 41462 27390 41876 0 FreeSans 3200 0 0 0 VDD
 flabel metal1 23006 42534 27402 43018 0 FreeSans 3200 0 0 0 GND
 flabel metal4 s 27662 44956 27722 45156 0 FreeSans 480 90 0 0 ui_in[0]
 port 11 nsew signal input
-flabel metal1 24570 40630 24622 40636 0 FreeSans 160 0 0 0 3
-flabel metal1 24698 40398 24788 40411 0 FreeSans 320 0 0 0 2
 flabel metal1 24700 39774 24790 40184 0 FreeSans 320 0 0 0 4
-flabel metal1 24568 39604 24624 39610 0 FreeSans 320 0 0 0 1
-flabel metal1 24568 39604 24624 39610 0 FreeSans 320 0 0 0 1
-flabel metal1 24580 34824 24632 34830 0 FreeSans 160 0 0 0 3
-flabel metal1 24708 34592 24798 34605 0 FreeSans 320 0 0 0 2
 flabel metal1 24710 33968 24800 34378 0 FreeSans 320 0 0 0 4
-flabel metal1 24578 33798 24634 33804 0 FreeSans 320 0 0 0 1
 flabel metal1 10192 40100 16746 40406 0 FreeSans 1600 0 0 0 GND
 flabel metal1 10206 37242 16792 37548 0 FreeSans 1600 0 0 0 GND
 flabel metal1 10206 34284 17032 34590 0 FreeSans 1600 0 0 0 GND
@@ -1939,6 +1930,11 @@ port 52 nsew ground bidirectional
 flabel metal1 21694 43626 27402 44220 0 FreeSans 3200 0 0 0 VDD
 flabel metal4 s 11042 0 11222 200 0 FreeSans 960 0 0 0 ua[5]
 port 8 nsew signal bidirectional
+flabel metal1 24710 34605 24800 35012 0 FreeSans 400 0 0 0 2
+flabel metal1 24580 34882 24632 35010 0 FreeSans 320 0 0 0 3
+flabel metal1 24568 39812 24624 39916 0 FreeSans 160 0 0 0 1
+flabel metal1 24570 40688 24622 40816 0 FreeSans 400 0 0 0 3
+flabel metal1 24578 34006 24634 34110 0 FreeSans 320 0 0 0 1
 << properties >>
 string FIXED_BBOX 0 0 32200 45152
 << end >>
