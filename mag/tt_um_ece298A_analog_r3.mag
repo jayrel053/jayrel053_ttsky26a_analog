@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778791212
+timestamp 1778849687
 << nwell >>
 rect 19244 33384 19544 33496
 << psubdiff >>
@@ -1628,7 +1628,7 @@ rect 30017 6475 30199 6476
 rect 22634 1218 29824 1398
 rect 18770 0 18950 627
 rect 22634 0 22814 1218
-rect 26498 938 26678 984
+rect 26498 938 26678 940
 rect 30018 938 30198 6475
 rect 30362 2853 30542 11831
 rect 30361 2852 30543 2853
@@ -1758,50 +1758,6 @@ use jrl_sky130_fd_sc_hd__inv_1  jrl_sky130_fd_sc_hd__inv_1_6
 timestamp 1778788311
 transform 1 0 19262 0 1 32812
 box -32 -38 334 602
-use r-w_pulldown  r-w_pulldown_0 ~/work/ece298a/layout/r-w_bitline_driver
-timestamp 1778788311
-transform 0 -1 24624 -1 0 41028
-box 0 0 250 422
-use r-w_pulldown  r-w_pulldown_1
-timestamp 1778788311
-transform 0 -1 24624 -1 0 39826
-box 0 0 250 422
-use r-w_pulldown  r-w_pulldown_2
-timestamp 1778788311
-transform 0 -1 24634 -1 0 38836
-box 0 0 250 422
-use r-w_pulldown  r-w_pulldown_3
-timestamp 1778788311
-transform 0 -1 24634 -1 0 36060
-box 0 0 250 422
-use r-w_pulldown  r-w_pulldown_4
-timestamp 1778788311
-transform 0 -1 24634 -1 0 35222
-box 0 0 250 422
-use r-w_pulldown  r-w_pulldown_5
-timestamp 1778788311
-transform 0 -1 24634 -1 0 34020
-box 0 0 250 422
-use r-w_pullup  r-w_pullup_1 ~/work/ece298a/layout/r-w_bitline_driver
-timestamp 1778791212
-transform 0 -1 25398 -1 0 39866
-box 0 0 322 698
-use r-w_pullup  r-w_pullup_2
-timestamp 1778791212
-transform 0 -1 25408 -1 0 38876
-box 0 0 322 698
-use r-w_pullup  r-w_pullup_3
-timestamp 1778791212
-transform 0 -1 25408 -1 0 36100
-box 0 0 322 698
-use r-w_pullup  r-w_pullup_4
-timestamp 1778791212
-transform 0 -1 25408 -1 0 35262
-box 0 0 322 698
-use r-w_pullup  r-w_pullup_5
-timestamp 1778791212
-transform 0 -1 25408 -1 0 34060
-box 0 0 322 698
 use Sense_Amp  Sense_Amp_0 ~/work/ece298a/layout/sense_amp/ej
 timestamp 1778788311
 transform 0 1 19226 -1 0 10520
