@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778868673
+timestamp 1778873073
 << nwell >>
 rect 19244 33384 19544 33496
 << psubdiff >>
@@ -1641,6 +1641,14 @@ use 6T_1bit_type1a  6T_1bit_type1a_0 ~/work/ece298a/layout/bitcell/robert
 timestamp 1778788311
 transform 0 1 18396 -1 0 36126
 box 1304 2108 1900 3156
+use BitCellNoResis  BitCellNoResis_0 ~/work/ece298a/layout/bitcell/marco/mag
+timestamp 1778851461
+transform 0 1 22982 -1 0 40496
+box -560 -530 920 1040
+use BitCellResis  BitCellResis_0 ~/work/ece298a/layout/bitcell/marco/mag
+timestamp 1778784952
+transform 0 1 22046 -1 0 37658
+box -1560 -1040 1970 1700
 use jrl_inv_8  jrl_inv_8_0 ~/work/ece298a/layout/inverter
 timestamp 1778788311
 transform 1 0 26540 0 1 43096
