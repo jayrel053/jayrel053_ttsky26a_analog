@@ -18,7 +18,7 @@ To be completed prior to final submission
 
 Explain how to use your project
 
-built-in self test (BIST)
+To be completed prior to final submission
 
 ## External hardware
 
@@ -30,7 +30,7 @@ Signal generator, oscilloscope, voltmeter, power supply
 
 ## How to test
 
-Apply signal x, view result y.
+To be completed prior to final submission
 
 ## External hardware
 

@@ -11,11 +11,11 @@ project:
   tiles: "1x2"          # Valid values for analog projects: 1x2, 2x2
 
   # How many analog pins does your project use?
-  analog_pins: 6        # Valid values: 0 to 6
+  analog_pins: 5        # Valid values: 0 to 6
   uses_3v3: false       # Set to true if your project uses 3.3V (VAPWR) in addition to 1.8V (VDPWR)
 
   # Your top module name must start with "tt_um_". Make it unique by including your github username:
-  top_module:  "tt_um_ece298A_analog"
+  top_module:  "tt_um_ece298A_analog_r3"
 
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
@@ -60,7 +60,6 @@ pinout:
   ua[2]: "a_2"
   ua[3]: "a_3"
   ua[4]: "a_4"
-  ua[5]: "a_5"
 
 # Do not change!
 yaml_version: 6
