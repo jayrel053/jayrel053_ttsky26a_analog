@@ -12,24 +12,25 @@ You can also include images in this folder and reference them in the markdown. E
 <<<<<<< HEAD
 Explain how your project works
 
-To be explained later
+To be completed prior to final submission
 
 ## How to test
 
 Explain how to use your project
 
-built-in self test (BIST) is probably used
+built-in self test (BIST)
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 
 =======
+
 Signal generator, oscilloscope, voltmeter, power supply
 
 ## How to test
 
-built-in self test is used extensively.
+Apply signal x, view result y.
 
 ## External hardware
 
