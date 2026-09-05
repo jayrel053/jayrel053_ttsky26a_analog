@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-ECE298A-F2025 Analog Tile, 2026/05/18
+ECE298A-F2025 Analog Tile, 2026/09/05
 
 https://app.tinytapeout.com/projects/4917
 
@@ -27,7 +27,7 @@ https://github.com/robertyt33/TinyTapeout-ECE298A
 David Gao and David Ye
 https://github.com/davvdf/SRAM_precharge_access
 
-4. Differential Amplifier 1
+4. Differential Amplifier 1a
 Ernest James (EJ) Ramas and Ethan Pang
 https://github.com/ejramas/TT_RAM-SRAM-Sense_Amp
 
